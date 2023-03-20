@@ -1,0 +1,7 @@
+{
+  "name": "jondi",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
