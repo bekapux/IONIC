@@ -13,7 +13,7 @@ import { BookingsPage } from './bookings.page';
     CommonModule,
     FormsModule,
     IonicModule,
-    BookingsPageRoutingModule
+    BookingsPageRoutingModule,
   ],
   declarations: [BookingsPage]
 })
